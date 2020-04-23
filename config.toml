@@ -1,4 +1,4 @@
-baseURL = "https://github.com/EmmaLee1229/emmalee1229.github.io"
+baseURL = "https://emmalee1229.github.io/"
 languageCode = "zh-Hans"
 title = "EmmaLee的博客"
 theme = "ananke"
